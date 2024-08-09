@@ -1,0 +1,12 @@
+Menu	KEYWORD1
+MenuOption	KEYWORD1
+handleInput	KEYWORD2
+display	KEYWORD2
+addOption	KEYWORD2
+addSubMenu	KEYWORD2
+removeOption	KEYWORD2
+changeOptionPlace	KEYWORD2
+loadOptionsFromFile	KEYWORD2
+saveOptionsToFile	KEYWORD2
+interrupt	KEYWORD2
+
